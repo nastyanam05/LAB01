@@ -1,0 +1,15 @@
+/Users/mira/RiderProjects/Prog/Prog/bin/Debug/net7.0/Prog
+/Users/mira/RiderProjects/Prog/Prog/bin/Debug/net7.0/Prog.deps.json
+/Users/mira/RiderProjects/Prog/Prog/bin/Debug/net7.0/Prog.runtimeconfig.json
+/Users/mira/RiderProjects/Prog/Prog/bin/Debug/net7.0/Prog.dll
+/Users/mira/RiderProjects/Prog/Prog/bin/Debug/net7.0/Prog.pdb
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.csproj.AssemblyReference.cache
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.AssemblyInfoInputs.cache
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.AssemblyInfo.cs
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.csproj.CoreCompileInputs.cache
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.dll
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/refint/Prog.dll
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.pdb
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/Prog.genruntimeconfig.cache
+/Users/mira/RiderProjects/Prog/Prog/obj/Debug/net7.0/ref/Prog.dll
